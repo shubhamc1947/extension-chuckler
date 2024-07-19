@@ -1,6 +1,10 @@
 
 # Chuckler Chrome Extension
 
+
+https://github.com/user-attachments/assets/49f75b05-1f21-4c8a-8eef-681ae04ccbbb
+
+
 ## Overview
 The Chuckler Chrome extension fetches jokes from the 'icanhazdadjoke' API and displays them on a webpage when loaded or when a button is clicked.
 
